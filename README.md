@@ -21,7 +21,7 @@ It's an introductory and immensely popular course from Harvard University that i
 
 ## Problem Sets
 
-- Pset 0: Scratch Project - **Space Defender**
+- **Pset 0**: Scratch Project - [Space Defender](https://scratch.mit.edu/projects/940918648/editor/)
 
 
 ## Certificate
