@@ -15,13 +15,15 @@ It's an introductory and immensely popular course from Harvard University that i
 - Software Engineering;
 - Web Development;
 - Languages: C, Python, SQL, JavaScript, CSS, HTML;
-- Security;
+- Cybersecurity;
 - And more.
 
 
 ## Problem Sets
 
-- **Pset 0**: Scratch Project - [Space Defender](https://scratch.mit.edu/projects/940918648/)
+- **Pset 0**:  [Space Defender](https://scratch.mit.edu/projects/940918648/)
+- **Pset 1**: [Mario](https://github.com/guilhermesvm/CS50x/blob/main/Week%201%20-%20C/pset1/mario-less.c), [Cash](https://github.com/guilhermesvm/CS50x/blob/main/Week%201%20-%20C/pset1/cash.c)
+
 
 
 ## Certificate
