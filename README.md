@@ -3,7 +3,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:700/1*IYCifTCCR2ah-79u94Z3wg.png" alt="CS50 Logo" width=80%>
 </div>
 
-Welcome to my CS50x repository! Here, you'll find all my labs, solutions, and projects from Harvard's CS50 course, offered on edX.
+Welcome to my [CS50x](https://cs50.harvard.edu/x/2023/) repository! Here, you'll find all my labs, solutions, and projects from Harvard's CS50 course, offered on edX.
 
 ## About CS50x
 
