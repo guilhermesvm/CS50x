@@ -1,10 +1,15 @@
+// Practice using structs
+// Practice writing a linear search function
+
 #include <cs50.h>
 #include <ctype.h>
 #include <stdio.h>
 #include <string.h>
 #include <strings.h>
 
+
 #define NUM_ITEMS 10
+
 
 typedef struct
 {
@@ -12,11 +17,12 @@ typedef struct
     float price;
 } menu_item;
 
+
 menu_item menu[NUM_ITEMS];
+
 
 void add_items(void);
 float get_cost(string item);
-
 
 int main(void)
 {
@@ -39,8 +45,10 @@ int main(void)
             printf("\n");
             break;
         }
+
         total += get_cost(item);
     }
+
     printf("Your total cost is: $%.2f\n", total);
 }
 
