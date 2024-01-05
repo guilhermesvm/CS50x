@@ -24,6 +24,14 @@ It's an introductory and immensely popular course from Harvard University that i
 - **Pset 0**:  [Space Defender](https://scratch.mit.edu/projects/940918648/)
 - **Pset 1**: [Mario](https://github.com/guilhermesvm/CS50x/blob/main/Week%201%20-%20C/pset1/mario-less.c), [Cash](https://github.com/guilhermesvm/CS50x/blob/main/Week%201%20-%20C/pset1/cash.c)
 - **Pset 2**: [Readability](https://github.com/guilhermesvm/CS50x/blob/main/week2-arrays/pset2/readability.c), [Caesar](https://github.com/guilhermesvm/CS50x/blob/main/week2-arrays/pset2/caesar.c)
+- **Pset 3**: [Sort](https://github.com/guilhermesvm/CS50x/blob/main/week3-algorithms/pset3/sort-anwsers.txt), [Plurality](https://github.com/guilhermesvm/CS50x/blob/main/week3-algorithms/pset3/plurality.c), [Runoff](https://github.com/guilhermesvm/CS50x/blob/main/week3-algorithms/pset3/runoff.c)
+- **Pset 4**: -
+- **Pset 5**: -
+- **Pset 6**: -
+- **Pset 7**: -
+- **Pset 8**: -
+- **Pset 9**: -
+- **Pset 10 (Final Project)**: -
 
 
 
