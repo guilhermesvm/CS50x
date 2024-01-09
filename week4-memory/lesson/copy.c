@@ -15,3 +15,4 @@ int main(void){
 
     printf("%s\n", s);   //Hi!
     printf("%s\n",t);   //Hi! - both are capitalized, cause they're pointing at the same address
+}

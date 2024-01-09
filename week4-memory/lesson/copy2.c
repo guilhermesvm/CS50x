@@ -25,3 +25,4 @@ int main(void){
 
     free(t); //free the number of bytes that were used
     return 0;
+}

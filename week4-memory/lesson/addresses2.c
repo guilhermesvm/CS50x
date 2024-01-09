@@ -10,5 +10,4 @@ int main(void){
     printf("%p\n", &s[1])   //prints 0x124 (+1)
     printf("%p\n", &s[2])   //prints 0x125 (+2)
     printf("%p\n", &s[3])   //prints 0x126 (+3)
-    
 }
