@@ -1,0 +1,17 @@
+
+#harvard{
+    color: red;
+}
+
+#yale{
+    color: blue;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
