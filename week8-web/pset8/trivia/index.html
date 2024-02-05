@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+    </head>
+    <body>
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3>Who is widely regarded as the greatest guitarist of all time?</h3>
+
+                <button class="incorrect">Jimmy Page</button>
+                <button class="incorrect">Eddie Van Halen</button>
+                <button class="correct">Jimi Hendrix</button>
+                <button class="incorrect">B.B King</button>
+                <button class="incorrect">Chuck Berry</button>
+
+                <p id="answer1"></p>
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+
+                <h3>Who was the UK prime minister during WW2?</h3>
+
+                <input autocomplete="off" placeholder="Your answer here" type="text">
+                <button id="submit">Submit</button>
+
+                <p id="answer2"></p>
+            </div>
+        </div>
+        <script src="script.js"></script>
+    </body>
+</html>
