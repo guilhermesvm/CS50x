@@ -3,7 +3,7 @@
     <img src="https://miro.medium.com/v2/resize:fit:700/1*IYCifTCCR2ah-79u94Z3wg.png" alt="CS50 Logo" width=80%>
 </div>
 
-Welcome to my [CS50x](https://cs50.harvard.edu/x/2023/) repository! Here, you'll find all my labs, solutions, and projects from Harvard's CS50 course, offered on edX.
+Welcome to my [CS50x](https://cs50.harvard.edu/x/2023/) repository! Here you'll find all my source code related to the lessons and sections from Harvard's CS50 course, offered on edX.
 
 ## About CS50x
 
@@ -13,27 +13,18 @@ It's an introductory and immensely popular course from Harvard University that i
 - Algorithms;
 - Data Structures;
 - Software Engineering;
+- Resource Management;
+- Complexity;
 - Web Development;
-- Languages: C, Python, SQL, JavaScript, CSS, HTML;
+- Cryptography;
 - Cybersecurity;
-- And more.
+-  Artificial Intelligence;
+- Languages: C, Python (Flask), SQL, JavaScript, CSS, HTML;
 
 
-## Problem Sets
+## Problem Sets and Final Project
 
-- **Pset 0**:  [Space Defender](https://scratch.mit.edu/projects/940918648/)
-- **Pset 1**: [Mario](https://github.com/guilhermesvm/CS50x/blob/main/Week%201%20-%20C/pset1/mario-less.c), [Cash](https://github.com/guilhermesvm/CS50x/blob/main/Week%201%20-%20C/pset1/cash.c)
-- **Pset 2**: [Readability](https://github.com/guilhermesvm/CS50x/blob/main/week2-arrays/pset2/readability.c), [Caesar](https://github.com/guilhermesvm/CS50x/blob/main/week2-arrays/pset2/caesar.c)
-- **Pset 3**: [Sort](https://github.com/guilhermesvm/CS50x/blob/main/week3-algorithms/pset3/sort-anwsers.txt), [Plurality](https://github.com/guilhermesvm/CS50x/blob/main/week3-algorithms/pset3/plurality.c), [Runoff](https://github.com/guilhermesvm/CS50x/blob/main/week3-algorithms/pset3/runoff.c)
-- **Pset 4**: -
-- **Pset 5**: -
-- **Pset 6**: -
-- **Pset 7**: -
-- **Pset 8**: -
-- **Pset 9**: -
-- **Pset 10 (Final Project)**: -
-
-
+As per the CS50x [Academic Honesty](https://cs50.harvard.edu/x/2024/honesty/) policy, any source code related to the problem sets (Psets) and the final projec must not to be shared.
 
 ## Certificate
 Loading...
